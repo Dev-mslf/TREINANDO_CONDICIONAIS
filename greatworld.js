@@ -3,7 +3,7 @@ let nome = " "
 // Informe o seu sexo no espaço em branco
 let sexo = " "
 // Informe o seu contato
-let numerowhatsapp = "xxxxxxxxx"
+let numerowhatsapp = " "
 
 
 if (sexo === "feminino"){
